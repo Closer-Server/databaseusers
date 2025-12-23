@@ -1,27 +1,27 @@
 {
-    "users": {},
-    "galloner": {
-        "id": 3,
-        "username": "galloner",
-        "email": "paolocretino1@gmail.com",
-        "password": "76d86769954c06550f385a3811b57610296172f23caaacbf5472f546930efbea007ea095264130b53bf6c6f0535446b0f699ae259f4ab7595de195e2b0c0cd4d.965a60d35ac344a7a63ff8284c16e327",
-        "plan": "Premium",
-        "createdAt": "2025-12-23T09:26:00.455Z"
-    },
-    "matteo": {
-        "id": 3,
-        "username": "matteo",
-        "email": "pilo@lopo.com",
-        "password": "18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4",
-        "plan": "Free",
-        "createdAt": "2025-12-23T10:58:47.624179"
-    },
-    "gaia": {
-        "id": 4,
-        "username": "gaia",
-        "email": "ggg@lol.it",
-        "password": "b95ee4efc49878ebc6e8f93c29d7f692742dad7330574634428c8d6355794d88",
-        "plan": "Free",
-        "createdAt": "2025-12-23T11:00:06.187440"
-    }
+  "users": {},
+  "galloner": {
+    "id": 3,
+    "username": "galloner",
+    "email": "paolocretino1@gmail.com",
+    "password": "76d86769954c06550f385a3811b57610296172f23caaacbf5472f546930efbea007ea095264130b53bf6c6f0535446b0f699ae259f4ab7595de195e2b0c0cd4d.965a60d35ac344a7a63ff8284c16e327",
+    "plan": "Premium",
+    "createdAt": "2025-12-23T09:26:00.455Z"
+  },
+  "matteo": {
+    "id": 3,
+    "username": "matteo",
+    "email": "pilo@lopo.com",
+    "password": "18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4",
+    "plan": "Free",
+    "createdAt": "2025-12-23T10:58:47.624179"
+  },
+  "gaia": {
+    "id": 4,
+    "username": "gaia",
+    "email": "ggg@lol.it",
+    "password": "b95ee4efc49878ebc6e8f93c29d7f692742dad7330574634428c8d6355794d88",
+    "plan": "Free",
+    "createdAt": "2025-12-23T11:00:06.187440"
+  }
 }
