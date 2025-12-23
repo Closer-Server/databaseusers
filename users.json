@@ -15,5 +15,13 @@
         "password": "18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4",
         "plan": "Free",
         "createdAt": "2025-12-23T10:58:47.624179"
+    },
+    "gaia": {
+        "id": 4,
+        "username": "gaia",
+        "email": "ggg@lol.it",
+        "password": "b95ee4efc49878ebc6e8f93c29d7f692742dad7330574634428c8d6355794d88",
+        "plan": "Free",
+        "createdAt": "2025-12-23T11:00:06.187440"
     }
 }
